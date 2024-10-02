@@ -19,3 +19,6 @@ Em seguida, o programa resolve a equação, calcula o discriminante delta (Δ) e
 ```cpp
 // Valor de x1 e x2 será exibido
 ```
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
