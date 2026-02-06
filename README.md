@@ -1,4 +1,4 @@
-## Álgebra
+## Álgebra.
 **algebra.cpp**
 
 Meu projeto consiste em um algoritmo desenvolvido em C++ para calcular equações quadráticas, popularmente conhecidas como álgebra, matéria muito conhecida por quem vivenciou o ensino médio. Este programa permite ao usuário inserir os coeficientes A, B e C de uma equação quadrática da forma:
